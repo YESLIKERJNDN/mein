@@ -1,7 +1,6 @@
---/maxi's antiskid lol
-maxi() getenv("Loaded")
+
   
-  --/ dont try to skid my antiskid lol, would not work since theirs a function in obfuscated code lol
+  
 
 
 --// Obfuscated by jmes - discord.gg/STaq3UDbqQ
